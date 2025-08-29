@@ -3,7 +3,7 @@
 
 import { useState, useContext, useEffect } from "react";
 import { useUser, SignInButton, SignOutButton, SignUpButton } from "@clerk/nextjs";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import { Moon, Sun, Search, ShoppingCart, MessageCircle } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";

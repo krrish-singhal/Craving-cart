@@ -2,7 +2,7 @@
 
 import { CartUpdateContext } from '@/app/_context/CartUpdateContext';
 import GlobalApi from '../_utils/globalapi';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/ui/Button';
 import { Input } from '@/components/ui/input';
 import { useUser } from '@clerk/nextjs';
 import { Loader } from 'lucide-react';

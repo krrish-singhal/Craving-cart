@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Textarea } from "@/components/ui/textarea"
 import { Rating as ReactRating } from '@smastrom/react-rating'
-import { Button } from '@/components/ui/button'
+import { Button } from '@/components/ui/Button'
 import { useUser } from '@clerk/nextjs'
 import GlobalApi from '../../../_utils/globalapi'
 import { toast } from 'sonner'

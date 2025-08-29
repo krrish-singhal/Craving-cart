@@ -1,4 +1,4 @@
-import { Button } from '@/components/ui/button'
+import { Button } from '@/components/ui/Button'
 import { CheckCircle2 } from 'lucide-react'
 import Link from 'next/link'
 import React from 'react'
